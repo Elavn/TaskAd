@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TaskAdo</string>
+    <string name="tag">Get your day duly planned, Tasks properly arranged and Your priorities sorted.</string>
+    <string name="get_started">Get Started</string>
+    <string name="cont">Continue</string>
+    <string name="nick">What\'s your Nickname?</string>
+    <string name="wel">Hi,</string>
+    <string name="confidence">Build confidence with good scheduling</string>
+    <string name="be">Be right on time and gain an extra edge over everyone else</string>
+    <string name="skip">Skip</string>
+    <string name="let">Let\'s Begin</string>
+    <string name="ava">Which Avatar is best for you?</string>
+    <string name="saver">Save</string>
+</resources>
